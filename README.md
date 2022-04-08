@@ -1,2 +1,2 @@
 # library-terminal-app
-Python ve SQLite ile terminalde çalışan basit kütüphane uygulaması.
+Python ve SQLite kullanılarak yapılmış terminalde çalışan basit bir kütüphane uygulaması.
